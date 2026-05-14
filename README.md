@@ -125,4 +125,6 @@ _Add screenshots of your Tableau dashboard here._
 Example:
 
 ```md
-![Dashboard Screenshot](images/dashboard.png)
+
+
+![Superstore Sales Dashboard](dashboard.png)

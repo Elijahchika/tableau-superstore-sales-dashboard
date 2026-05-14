@@ -128,4 +128,4 @@ Example:
 
 
 ![Superstore Sales Dashboard]
-<p align="center"> <img src="./dashboard.png" alt="Screenshot" width="60%"/></p>
+<p align="center"> <img src="./src/assets/movies_project.png" alt="Home Page" width="55%"/></p>

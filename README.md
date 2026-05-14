@@ -128,5 +128,4 @@ Example:
 
 
 ![Superstore Sales Dashboard]
-(tableau-superstore-sales-dashboard
-/dashboard.png)
+<p align="center"> <img src="./dashboard.png" alt="Screenshot" width="60%"/></p>

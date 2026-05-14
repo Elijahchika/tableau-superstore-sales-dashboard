@@ -127,4 +127,6 @@ Example:
 ```md
 
 
-![Superstore Sales Dashboard](dashboard.png)
+![Superstore Sales Dashboard]
+(tableau-superstore-sales-dashboard
+/dashboard.png)
